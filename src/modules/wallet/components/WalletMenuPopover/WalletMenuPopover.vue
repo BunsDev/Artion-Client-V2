@@ -33,6 +33,7 @@ import { mapState } from 'vuex';
 import { focusElem } from 'fantom-vue-components/src/utils/aria.js';
 
 const THEME_DARK = 'theme-dark';
+const THEME_DEFAULT = 'theme-default';
 
 export default {
     name: 'WalletMenuPopover',
@@ -96,7 +97,7 @@ export default {
         },
 
         onDarkThemeSwitchChange(value) {
-            this.$store.commit(`app/${SET_THEME}`, value ? THEME_DARK : 'theme-default');
+            this.$store.commit(`app/${SET_THEME}`, value ? THEME_DARK : THEME_DEFAULT);
         },
     },
 };
