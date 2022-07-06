@@ -1,4 +1,4 @@
-# Artion-Client-V2
+# NFNT-Client-V2
 
 ## Project setup
 ```

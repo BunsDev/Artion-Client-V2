@@ -33,7 +33,7 @@ export default create({
     inputBorderRadius: 4,
 */
 
-    brandTitle: 'Artion',
-    brandUrl: 'https://fantom.foundation/',
+    brandTitle: 'NFNT',
+    brandUrl: 'https://soulswap.finance/',
     // brandImage: 'https://placehold.it/350x150',
 });

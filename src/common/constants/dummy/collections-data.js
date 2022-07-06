@@ -1,8 +1,8 @@
 export function collectionsData() {
     return [
         {
-            img: 'https://cloudflare-ipfs.com/ipfs/QmP8idjiQxFZ1Wpe61fSmi6jPTT48apPEx4QVKDhhWNWya',
-            label: 'Default Artion Collection',
+            img: 'https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png',
+            label: 'Default NFNT Collection',
             value: 'default-artion-collection',
         },
         /*{

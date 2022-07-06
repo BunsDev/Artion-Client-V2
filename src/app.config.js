@@ -1,12 +1,12 @@
 let appConfig = {
     // app name - used in titles
-    name: 'Artion',
+    name: 'NFNT',
     // app main title
-    title: 'Artion, NFT marketplace',
+    title: 'NFNT, NFT marketplace',
     // app description
-    description: 'Artion, NFT marketplace',
+    description: 'NFNT, NFT marketplace',
     // app keywords
-    keywords: 'Artion, NFT, NFTs, Fantom',
+    keywords: 'NFNT, NFT, NFTs, Fantom',
     // app's favicon
     favicon: 'public/favicon.png',
     // app code
@@ -15,7 +15,7 @@ let appConfig = {
     module: process.env.VUE_APP_FANTOM_MODULE || 'artion',
     // apollo client settings
     apollo: {
-        // Artion api
+        // NFNT api
         artion: {
             // list of providers. if one of them is unavailable, another is randomly picked
             providers: [
@@ -93,7 +93,7 @@ let appConfig = {
     // pwa settings
     pwa: {
         // name used in pwa manifest
-        name: 'Artion',
+        name: 'NFNT',
         categories: ['finance'],
         mainColor: '#ffffff',
         assetsVersion: '1',
