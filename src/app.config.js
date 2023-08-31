@@ -10,9 +10,9 @@ let appConfig = {
     // app's favicon
     favicon: 'public/favicon.png',
     // app code
-    code: process.env.VUE_APP_FANTOM_MODULE || 'artion',
+    code: process.env.VUE_APP_FANTOM_MODULE || 'nfnt',
     // app routes
-    module: process.env.VUE_APP_FANTOM_MODULE || 'artion',
+    module: process.env.VUE_APP_FANTOM_MODULE || 'nfnt',
     // apollo client settings
     apollo: {
         // NFNT api
